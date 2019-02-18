@@ -1,0 +1,16 @@
+{
+  "name": "sudoku-validator",
+  "version": "0.0.1",
+  "main": "sudoku-validator.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint . --config=eslintrc.json"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.0"
+  },
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
