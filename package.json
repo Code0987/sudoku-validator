@@ -11,6 +11,6 @@
     "eslint": "5.16.0"
   },
   "dependencies": {
-    "yargs": "^15.0.0"
+    "yargs": "^16.0.0"
   }
 }
